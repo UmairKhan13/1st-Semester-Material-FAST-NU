@@ -1,0 +1,1 @@
+Customer ID: 1234 	 Customer Name: wahaj	 Street: ABCD	 City: karachi	 State: pakistan
